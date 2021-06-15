@@ -40,10 +40,10 @@ export default function Home() {
         </p>
         <p>
           If fou want to learn some piano skill, but you just have a keyboard :
-          <a href="https://www.musicca.com/fr/piano"> play here.</a>
+          <a href="https://www.musicca.com/fr/piano">Play here.</a>
           <p>
             Even if you don't know what playing, i made this little tuto for you :
-            <a href="http://localhost:3000/posts/first-post"> Learn here.</a>
+            <a href="http://localhost:3000/posts/first-post">Learn here.</a>
           </p>
           </p>
       </section>

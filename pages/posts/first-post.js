@@ -18,13 +18,13 @@ export default function FirstPost() {
         </h2>
         <h3>
             <a href="/">
-            ← Back to home
+            ‹- Back to home
             </a>
-            <a href="/../posts/abdt-tuto" className={utilStyles.abdtTutoLink}>
+            <a href="/../posts/abdt-tuto">
             Video example
             </a>
-            <a href="https://www.musicca.com/fr/piano" className={utilStyles.pianoLink}>
-            Go to practice
+            <a href="https://www.musicca.com/fr/piano">
+            Go to practice -›
             </a>
         </h3>
 </section>

@@ -7,7 +7,7 @@ return (
       <head>
           <title>Piano tutorial</title>
       </head>
-          <h1>Piano piece - Au bord du temps (Tuto video part)</h1>
+          <h1>Piano tuto - Au bord du temps (Video part)</h1>
           <h2 className={utilStyles.twoFirstSkillsFont}>
             <p>
             (G) + (K) + (O), alternate with (^)
@@ -38,11 +38,9 @@ return (
                   <source src='/images/ABDT-4th.mov' type="video/mp4"/>
                 </video>
               </div>
-          <h3>
               <a href="/posts/first-post">
               ← Back to the tuto
               </a>
-          </h3>
   </section>
       )
   }

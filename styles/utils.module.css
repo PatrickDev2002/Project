@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
 .heading2Xl {
     font-family: 'Gloria Hallelujah', cursive;
@@ -9,7 +10,7 @@
     letter-spacing: -0.05rem;
     margin: 1rem 0;
     text-shadow: 5px 2px rgba(105, 90, 205, 0.267);
-    box-shadow: 14px 12px 20px 11px rgb(55 49 95 / 53%);
+    box-shadow: 0px 1px 20px 11px rgb(97 86 47 / 48%);
 }
 
 .headingXl {
@@ -30,7 +31,8 @@
     font-family: 'Chewy', cursive;
     font-size: 1.3rem;
     line-height: 1.5;
-    text-shadow: 1px 1px rgba(188, 143, 143, 0.918);
+    text-shadow: 1px 1px rgba(75, 46, 15, 0.918);
+    color: rgb(141, 92, 37);
 }
 
 .borderCircle {
@@ -56,7 +58,7 @@
 }
 
 .lightText {
-    color: rgb(192, 79, 79);
+    color: rgb(95, 32, 32);
 }
 
 .fontStyle1{
@@ -93,22 +95,6 @@
     -o-background-size: cover;
   }
 
-.abdtTutoLink {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    margin-top: -2.6%;
-    margin-left: 0%;
-}
-
-.pianoLink {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
-    margin-top: -2.6%;
-    margin-left: 80%;
-}
-
 .abdtTutoBg {
     background-color: rgba(14, 13, 13, 0.726);
     position: fixed;
@@ -121,8 +107,9 @@
 
 .abdtTutoStyle {
     background: rgb(207 206 206 / 88%);
-    border-radius: 1rem;
+    border-radius: 2rem;
     box-shadow: 0px 0px 8px 6px rgb(66 48 187 / 31%);
+    padding-bottom: 2%;
 }
 
 .twoFirstSkills{
@@ -140,20 +127,29 @@
 }
 
 .twoFirstSkillsFont {
+    font-family: 'Cinzel', serif;
     display: flex;
     justify-content: space-around;
     margin-top: 5%;
+    margin-bottom: 2%;
     font-size: 110%;
     border: solid;
     border-left: currentColor;
     border-right: currentColor;
+    background-color: #3c54989c;
 }
 
 .twoLastSkillsFont {
+    font-family: 'Cinzel', serif;
     display: flex;
     justify-content: space-around;
     margin-top: 5%;
+    margin-bottom: 2%;
     font-size: 110%;
+    border: solid;
+    border-left: currentColor;
+    border-right: currentColor;
+    background-color: #3c54989c;
 }
 
 .videoStyles {

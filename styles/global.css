@@ -16,10 +16,18 @@ body {
 a {
   color: #0070f3;
   text-decoration: none;
+  padding: 1%;
+  font-size: 1.8rem;
+  border-radius: 3rem;
+  font-family: 'Gloria Hallelujah', cursive;
+  letter-spacing: -0.05rem;
 }
 
 a:hover {
   text-decoration: underline;
+  transition: 0.1s;
+  color: rgba(162, 96, 206, 0.849);
+  background-color: rgba(65, 125, 165, 0.301);
 }
 
 img {
@@ -51,14 +59,14 @@ h2 {
 }
 
 h3{
-  font-family: 'Gloria Hallelujah', cursive;
-  font-size: 1.8rem;
   line-height: 1.2;
   font-weight: 800;
-  letter-spacing: -0.05rem;
   margin: 1rem 0;
   text-shadow: 5px 2px rgba(105, 90, 205, 0.267);
   padding-left: 2%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
 }
 
 
