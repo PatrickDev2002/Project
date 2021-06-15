@@ -5,13 +5,13 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Lil blog of a pretty good dev'
-export const siteTitle = 'Gru le dev Fou'
+export const siteTitle = 'Blog - Guide pour dev et pianiste en herbe'
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3lE0aYIzfPREBM1wkhuLcsUKPCvekN1ZbkA&usqp=CAU" />
         <meta
           name="description"
           content="Learn how to build a personal website using Next.js"
