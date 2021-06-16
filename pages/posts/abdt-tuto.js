@@ -8,6 +8,9 @@ return (
           <title>Piano tutorial</title>
       </head>
           <h1>Piano tuto - Au bord du temps (Video part)</h1>
+          <div className={utilStyles.abdtTitle}>
+            Let's see the rhytm of those skills
+          </div>
           <h2 className={utilStyles.twoFirstSkillsFont}>
             <p>
             (G) + (K) + (O), alternate with (^)
