@@ -43,7 +43,8 @@ export default function Home() {
           <a href="https://www.musicca.com/fr/piano">Play here.</a>
           <p>
             Even if you don't know what playing, i made this little tuto for you :
-            <a href="http://localhost:3000/posts/first-post">Learn here.</a>
+            <a href="http://localhost:3000/posts/first-postMac">Learn mac version.</a>
+            <a href="http://localhost:3000/posts/first-postWindows">Learn windows version.</a>
           </p>
           </p>
       </section>
