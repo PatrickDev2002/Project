@@ -45,8 +45,8 @@ export default function Home() {
             Even if you don't know what playing, i made this little tuto for you :
             (Choose your operating system for optimal playable skills)
             <div className={utilStyles.linkStyle}>
-            <a href="http://localhost:3000/posts/first-postMac">Learn mac version.</a>
-            <a href="http://localhost:3000/posts/first-postWindows">Learn windows version.</a>
+            <a href="http://localhost:3000/posts/first-postMac">Learn Mac version.</a>
+            <a href="http://localhost:3000/posts/first-postWindows">Learn Windows version.</a>
             </div>
           </p>
           </p>
