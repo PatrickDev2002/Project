@@ -20,7 +20,7 @@ export default function FirstPost() {
             <a href="/">
             ‹- Back to home
             </a>
-            <a href="/../posts/abdt-tuto">
+            <a href="/../posts/abdt-tutoWindows">
             Video example
             </a>
             <a href="https://www.musicca.com/fr/piano">
