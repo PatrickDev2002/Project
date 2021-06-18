@@ -41,7 +41,7 @@ return (
                   <source src='/images/ABDT-4th.mov' type="video/mp4"/>
                 </video>
               </div>
-              <a href="/posts/first-post">
+              <a href="/posts/first-postMac">
               ← Back to the tuto
               </a>
   </section>

@@ -1,4 +1,5 @@
 import utilStyles from '../../styles/utils.module.css'
+
 export default function FirstPost() {
     return (
 <section className={utilStyles.firstPostStyle}>
@@ -10,7 +11,7 @@ export default function FirstPost() {
         <h2 className={utilStyles.fontStyle1}>
             /*(x4) = repeat 4 times*/....../*Use number instead of caracter when it's proposed*/
             <div className={utilStyles.fontStyle2}>
-            <p>Click on (G) + (K) + (O) in same time, and alternate with the (^). (x4)</p>
+            <p>Click on (G) + (K) + (O) in same time, and alternate with the (right paranthesis). (x4)</p>
             <p>Click on (F) + (N) + (6), alternate with the (9). (x4)</p>
             <p>Click on (R) + (G) + (right paranthesis) + (+), alternate with the (7). (x4)</p>
             <p>Click on (Y) + (N) + (+) + (V), alternate with the (I). (x4)</p>

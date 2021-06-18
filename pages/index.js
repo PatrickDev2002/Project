@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <div className={utilStyles.background}>
+      <div className="background">  {/*lorsque que la className est entre guillemets, cela provient de styles/... */}
         <span></span>
         <span></span>
         <span></span>
@@ -43,8 +43,11 @@ export default function Home() {
           <a href="https://www.musicca.com/fr/piano">Play here.</a>
           <p>
             Even if you don't know what playing, i made this little tuto for you :
+            (Choose your operating system for optimal playable skills)
+            <div className={utilStyles.linkStyle}>
             <a href="http://localhost:3000/posts/first-postMac">Learn mac version.</a>
             <a href="http://localhost:3000/posts/first-postWindows">Learn windows version.</a>
+            </div>
           </p>
           </p>
       </section>
