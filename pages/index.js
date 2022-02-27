@@ -51,7 +51,7 @@ export default function Home() {
                 Learn Mac version.
               </a>
               <a href="http://localhost:3000/posts/first-postWindows">
-                Learn Windows version.
+                Learn Windows version 3.
               </a>
             </div>
           </p>
