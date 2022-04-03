@@ -50,7 +50,7 @@ export default function Home() {
               <a href="http://localhost:3000/posts/first-postMac">
                 Learn Mac version.
               </a>
-              <a href="pages\posts\first-postWindows.js">
+              <a href="..\pages\posts\first-postWindows.js">
                 Learn Windows version.
               </a>
             </div>
